@@ -1,3 +1,8 @@
+# Esto es lenguaje MarkDown (.md)
+
+Es el que usa para 
+Resumen de sintaxis:
+
 # Titulo de primer nivel (negrita en letras grandes)
 
 **Esto es negrita** 
