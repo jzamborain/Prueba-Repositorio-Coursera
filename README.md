@@ -3,8 +3,10 @@
 **Esto es negrita** 
 
 Texto normal
+
 [Hipervinculo (a google)](http://www.google.es/)
-~~ Tachado ~~
+
+- ~~Course 5: Sequence Models~~
 
 ## Titulo de segundo nivel (negrita en letras menos grandes)
 
